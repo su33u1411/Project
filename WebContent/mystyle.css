@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+body{
+	background-color:white;
+	height:1100px;
+	width:650px;
+}
+#Header{
+	height:50px;
+	background-color:black;
+}
+#Header p{
+	color:white;
+	padding-left:250px;
+	padding-top:10px;
+	Font-size:large;
+}
+#Content {
+	height:300px;
+	width:650px;
+}
+#Content z{
+	background-color:gray;
+}
+#Footer{
+background-color:black;
+height:20px;
+}
+#Footer p{
+	color:white;
+	padding-left:200px;
+}
